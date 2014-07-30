@@ -1,0 +1,14 @@
+PODS:
+  - pop (1.0.6)
+
+DEPENDENCIES:
+  - pop (from `https://github.com/facebook/pop.git`)
+
+EXTERNAL SOURCES:
+  pop:
+    :git: https://github.com/facebook/pop.git
+
+SPEC CHECKSUMS:
+  pop: 6df6021f2f4efd89ee1c8c49a753296859ad5ac6
+
+COCOAPODS: 0.33.1
